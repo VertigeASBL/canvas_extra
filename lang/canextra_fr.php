@@ -6,7 +6,7 @@ if (!defined('_ECRIRE_INC_VERSION')) return;
 $GLOBALS[$GLOBALS['idx_lang']] = array(
 
 	// C
-	'canextra_titre' => 'canva_extra',
+	'canextra_titre' => 'canvas_extra',
 );
 
 ?>

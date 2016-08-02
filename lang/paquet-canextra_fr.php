@@ -7,8 +7,6 @@ $GLOBALS[$GLOBALS['idx_lang']] = array(
 
 	// C
 	'canextra_description' => '',
-	'canextra_nom' => 'canva_extra',
-	'canextra_slogan' => 'Un plugin canva pour les extras du site',
+	'canextra_nom' => 'canvas_extra',
+	'cabextra_slogan' => 'Un plugin canvas pour les extras du site',
 );
-
-?>

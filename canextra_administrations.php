@@ -2,7 +2,7 @@
 /**
  * Fichier gérant l'installation et désinstallation du plugin canva_extra
  *
- * @plugin     canva_extra
+ * @plugin     canvas_extra
  * @copyright  2016
  * @author     Didier
  * @licence    GNU/GPL
