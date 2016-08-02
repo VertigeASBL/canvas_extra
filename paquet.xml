@@ -1,0 +1,21 @@
+<paquet
+	prefix="canextra"
+	categorie="divers"
+	version="1.0.0"
+	etat="dev"
+	compatibilite="[3.0.16;3.0.*]"
+	logo="prive/themes/spip/images/canextra-64.png"
+	documentation=""
+	schema="1.0.0"
+>
+
+	<nom>canva_extra</nom>
+
+	<auteur lien='http://www.vertige.org'>Didier</auteur>
+
+	<licence>GNU/GPL</licence>
+
+  <necessite nom="cextras" compatibilite="[3.0.5;[" />
+
+  <pipeline nom="declarer_champs_extras" inclure="base/canextra.php" />
+</paquet>
